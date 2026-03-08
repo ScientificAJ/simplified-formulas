@@ -82,3 +82,6 @@ The following table breaks down the simplified equations commonly taught in foun
 | 70 | $v_{esc} = \sqrt{\frac{2GM}{R}}$ | Exact GR Schwarzschild Metric (geodesics) | Newtonian kinetic/potential approx, non-rotating spherical body, no drag. | Astrophysics |
 | 71 | $T^2 = \frac{4\pi^2}{GM}r^3$ | General two-body problem (barycenter focus) | Orbiting mass is negligible ($m \ll M$), perfectly circular orbit assumption. | Astrophysics |
 | 72 | $L = 4\pi R^2 \sigma T^4$ | Integral of Planck's Law over all frequencies | Star is modeled as a perfect blackbody sphere of uniform temperature. | Astrophysics |
+
+
+Feel free to add stuff.
